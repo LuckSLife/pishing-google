@@ -1,18 +1,20 @@
 **FERRAMENTAS** <br>
 -Kali Linux<br>
 -setoolkit<br>
+<br>
 
 **Configurando o Phishing no Kali Linux**<br>
+<br>
 
 <p>
-Acesso root: sudo su<br>
-Iniciando o setoolkit:  <mark> setoolkit </mark> <br>
-Tipo de ataque: Social-Engineering Attacks<br>
-Vetor de ataque: Web Site Attack Vectors<br>
-Método de ataque: Credential Harvester Attack Method <br>
-Método de ataque: Web template<br>
-Obtendo o endereço da máquina: ifconfig (OU ENTER)<br>
-Web template: Google<br>
+Acesso root: <strong> sudo su </strong> <br>
+Iniciando o setoolkit:  <strong> setoolkit </strong> <br>
+Tipo de ataque: <strong> Social-Engineering Attacks </strong> <br>
+Vetor de ataque: <strong> Web Site Attack Vectors </strong> <br>
+Método de ataque: <strong> Credential Harvester Attack Method </strong> <br>
+Método de ataque: <strong> Web template </strong> <br>
+Obtendo o endereço da máquina: <strong> ifconfig (OU ENTER) </strong> <br>
+Web template: <strong> Google </strong> <br>
 </p>
 
 **RESULTADO**<br>
