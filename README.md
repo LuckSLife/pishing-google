@@ -3,8 +3,7 @@
 -setoolkit<br>
 <br>
 
-**Configurando o Phishing no Kali Linux**<br>
-<br>
+**CONFIGURANDO O PHISHING NO KALI LINUX**<br>
 
 <p>
 Acesso root: <strong> sudo su </strong> <br>
