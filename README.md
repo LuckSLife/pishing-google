@@ -6,7 +6,7 @@
 
 <p>
 Acesso root: sudo su<br>
-Iniciando o setoolkit:  <strong> setoolkit </strong> <br>
+Iniciando o setoolkit:  <mark> setoolkit </mark> <br>
 Tipo de ataque: Social-Engineering Attacks<br>
 Vetor de ataque: Web Site Attack Vectors<br>
 Método de ataque: Credential Harvester Attack Method <br>
